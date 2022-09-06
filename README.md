@@ -1,4 +1,9 @@
 # my-code-problem on test
+
+
+## this is the fail code repo 
+> just to make a question
+
 6 aug 2022 laravel sanctum return 401 to nextjs and postman 
 
 
@@ -22,6 +27,10 @@
 
 ## to test this 
 
+if you just clone this to your computer this code cannot be run as you know 
+    that i have remove the folder "vendor","node_modules" just to make the 
+    file smaller to github so if you do the following maybe help.
+
 1. rename file ".env.EXAMPLE" to ".env" 
 
 2. edit the ".env" file 
@@ -42,8 +51,22 @@ SESSION_DOMAIN=.l9.next
 SANCTUM_STATEFUL_DOMAINS=l9.next
 ```
 
+then run `composer update` to get the folder "vendor"
+
 3. rename "clientX" to "client"
 
+4. rename "client/.env.local.EXAMPLE" to "client/.env.local" 
+
+5. i have remove the folder "node_modules" from "client" 
+just to make the file smaller so to get it back run 
+
+```
+    cd client
+    yarn install && yarn dev
+```
+
+
+remember all the help from you is big big thanks from me.
 
 
 
