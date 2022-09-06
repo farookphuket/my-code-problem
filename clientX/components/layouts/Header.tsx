@@ -19,6 +19,20 @@ export const Header = () => {
           </li>
           <li>post</li>
           <li>about</li>
+          <li>
+          <Link href="/login">
+            <a>
+            Login
+            </a>
+          </Link>
+          </li>
+          <li>
+            <Link href="/register">
+              <a>
+                register
+              </a>
+            </Link>
+          </li>
         </ul>
       </nav>
     </header>

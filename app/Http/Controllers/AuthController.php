@@ -20,9 +20,11 @@ class AuthController extends Controller
 
         if(!$token):
             return response()->json([
-"message" => "Loin XXX FAIL"
-],401);
+                        "message" => "Loin XXX FAIL"
+                    ],401);
         endif;
+
+        $token = Auth::user()->createToken("jwt")->plainTextToken;
 
         $cookie = cookie("jwt",$token,60*24);
         return response()->json([
