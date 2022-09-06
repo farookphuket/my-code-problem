@@ -42,6 +42,7 @@ SESSION_DOMAIN=.l9.next
 SANCTUM_STATEFUL_DOMAINS=l9.next
 ```
 
+3. rename "clientX" to "client"
 
 
 

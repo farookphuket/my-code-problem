@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base{
+    button{
+        @apply rounded  border-2 p-2;
+    }
+}
+
+
+@layer components{
+    .footerLabel{
+        @apply mr-2 text-gray-300 font-semibold uppercase;
+    }
+    .footerText{
+        @apply text-green-300 font-semibold;
+    }
+
+    .formGroup{
+        @apply bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 flex flex-col;
+    }
+
+    .formLabel{
+        @apply block text-gray-800 text-sm font-bold mb-2;
+    }
+
+    .btn{
+        @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4;
+    } 
+}
