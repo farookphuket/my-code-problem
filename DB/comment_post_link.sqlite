@@ -1,0 +1,8 @@
+ 
+/* ================== '1' insert item =============================== 
+ * on 2022-07-06 19:24:27 pm
+ * */
+INSERT INTO `comment_post` (`post_id`,`comment_id`) 
+VALUES(
+    '1',
+    '1'); 

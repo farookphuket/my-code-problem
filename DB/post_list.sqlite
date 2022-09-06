@@ -1,0 +1,259 @@
+ 
+/* ========================= backup INSERT POST 1 ========================
+ * on 2022-05-31 22:43:39
+ * */
+INSERT INTO `posts`(`user_id`,`title`,`cover`,`slug`,`excerpt`,`body`,
+`is_public`,`created_at`,`updated_at`) VALUES(
+    '1',
+    'รายการ ฟ้าทะลายโจร เดือนมิถุนายน พ.ศ.๒๕๖๕',
+    'https://lh3.googleusercontent.com/pQGdS18YAuzG04MouXIZmSpCm3zRwmB09t9Txl5DANZKgU2IaLEcmWSxFwjY1gOKcmK_0yTq-TtgV60r2YuyqP5eRczY-xTWLbbYLgeCa1l_w-Nbst8Aj4XWu2PMZQYTovKEWnt_bJE=w2400',
+    'รายการฟ้าทะลายโจร-jun-2022',
+    'ดูรายการ ฟ้าทะลายโจร เดือนมิถุนายน พ.ศ.๒๕๖๕',
+    '
+    <div class="content">
+        <p class="pb-4">
+            ทำวิดิโอคลิปนี้เพื่ออยากให้ได้ดูรายการของอาจารย์กบได้แบบไม่มีโฆษณาจากยูทูปมากวนใจ
+        </p>
+       <div class="video-container">
+            <iframe src="https://archive.org/embed/kob-jun-2022" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+       </div>
+       <p class="pt-2 has-text-centered">
+            รายการฟ้าทะลายโจร เดือนมิถุนายน พ.ศ. พ.ศ.๒๕๖๕ อาจารย์กบ
+       </p>
+    </div>
+    ',
+    '1',
+    '2022-06-30 22:43:39',
+    '2022-06-30 22:43:39');
+ 
+ 
+ 
+/* ========================= backup INSERT POST 2 ========================
+ * on 2022-05-31 22:43:39
+ * */
+INSERT INTO `posts`(`user_id`,`title`,`cover`,`slug`,`excerpt`,`body`,
+`is_public`,`created_at`,`updated_at`) VALUES(
+    '1',
+    'รายการฟ้าทะลายโจร เดือนมกราคม พศ พ.ศ.๒๕๖๕',
+    'https://lh3.googleusercontent.com/pQGdS18YAuzG04MouXIZmSpCm3zRwmB09t9Txl5DANZKgU2IaLEcmWSxFwjY1gOKcmK_0yTq-TtgV60r2YuyqP5eRczY-xTWLbbYLgeCa1l_w-Nbst8Aj4XWu2PMZQYTovKEWnt_bJE=w2400',
+    'รายการฟ้าทะลายโจร-jan-2022',
+    'รายการฟ้าทะลายโจร เดือนมกราคม พศ พ.ศ.๒๕๖๕',
+    '
+    <div class="content">
+        <p class="pb-4">
+            ทำวิดิโอคลิปนี้เพื่ออยากให้ได้ดูรายการของอาจารย์กบได้แบบไม่มีโฆษณาจากยูทูปมากวนใจ
+        </p>
+       <div class="video-container">
+           <iframe src="https://archive.org/embed/jan-2022-far-taluy-jon_202206" 
+           width="640" height="480" frameborder="0" webkitallowfullscreen="true" 
+           mozallowfullscreen="true" allowfullscreen></iframe>
+
+       </div>
+       <p class="pt-2 has-text-centered">
+          รายการฟ้าทะลายโจร เดือนมกราคม พศ พ.ศ.๒๕๖๕ อาจารย์กบ
+       </p>
+    </div>
+    ',
+    '1',
+    '2022-01-31 22:43:39',
+    '2022-01-31 22:43:39');
+
+
+
+/* ========================= backup INSERT POST 2 ========================
+ * on 2022-05-31 22:43:39
+ * */
+INSERT INTO `posts`(`user_id`,`title`,`cover`,`slug`,`excerpt`,`body`,
+`is_public`,`created_at`,`updated_at`) VALUES(
+    '1',
+    'รายการฟ้าทะลายโจร เดือนกุมภาพันธ์ พ.ศ.๒๕๖๕',
+    'https://lh3.googleusercontent.com/pQGdS18YAuzG04MouXIZmSpCm3zRwmB09t9Txl5DANZKgU2IaLEcmWSxFwjY1gOKcmK_0yTq-TtgV60r2YuyqP5eRczY-xTWLbbYLgeCa1l_w-Nbst8Aj4XWu2PMZQYTovKEWnt_bJE=w2400',
+    'รายการฟ้าทะลายโจร-feb-2022',
+    'รายการฟ้าทะลายโจร เดือนกุมภาพันธ์ พ.ศ.๒๕๖๕',
+    '
+    <div class="content">
+        <p class="pb-4">
+            ทำวิดิโอคลิปนี้เพื่ออยากให้ได้ดูรายการของอาจารย์กบได้แบบไม่มีโฆษณาจากยูทูปมากวนใจ
+        </p>
+       <div class="video-container">
+            <iframe src="https://archive.org/embed/far-taluy-jon_feb-2022" 
+            width="640" height="480" frameborder="0" 
+            webkitallowfullscreen="true" mozallowfullscreen="true" 
+            allowfullscreen></iframe>
+
+       </div>
+       <p class="pt-2 has-text-centered">
+          รายการฟ้าทะลายโจร เดือนกุมภาพันธ์ พ.ศ.๒๕๖๕ อาจารย์กบ
+       </p>
+    </div>
+    ',
+    '1',
+    '2022-02-23 22:43:39',
+    '2022-02-23 22:43:39');
+
+
+
+
+
+/* ========================= backup INSERT POST 2 ========================
+ * on 2022-05-31 22:43:39
+ * */
+INSERT INTO `posts`(`user_id`,`title`,`cover`,`slug`,`excerpt`,`body`,
+`is_public`,`created_at`,`updated_at`) VALUES(
+    '1',
+    'รายการฟ้าทะลายโจร เดือน มีนาคม พ.ศ.๒๕๖๕',
+    'https://lh3.googleusercontent.com/pQGdS18YAuzG04MouXIZmSpCm3zRwmB09t9Txl5DANZKgU2IaLEcmWSxFwjY1gOKcmK_0yTq-TtgV60r2YuyqP5eRczY-xTWLbbYLgeCa1l_w-Nbst8Aj4XWu2PMZQYTovKEWnt_bJE=w2400',
+    'รายการฟ้าทะลายโจร-mar-2022',
+    'รายการฟ้าทะลายโจร เดือน มีนาคม พ.ศ.๒๕๖๕',
+    '
+    <div class="content">
+        <p class="pb-4">
+            ทำวิดิโอคลิปนี้เพื่ออยากให้ได้ดูรายการของอาจารย์กบได้แบบไม่มีโฆษณาจากยูทูปมากวนใจ
+        </p>
+       <div class="video-container">
+            <iframe src="https://archive.org/embed/kob-mar-2022" 
+            width="640" height="480" frameborder="0" 
+            webkitallowfullscreen="true" mozallowfullscreen="true" 
+            allowfullscreen></iframe>
+
+       </div>
+       <p class="pt-2 has-text-centered">
+          รายการฟ้าทะลายโจร เดือน มีนาคม พ.ศ.๒๕๖๕ อาจารย์กบ
+       </p>
+    </div>
+    ',
+    '1',
+    '2022-03-31 22:43:39',
+    '2022-03-31 22:43:39');
+
+
+
+
+/* ========================= backup INSERT POST 4 ========================
+ * on 2022-05-31 22:43:39
+ * */
+INSERT INTO `posts`(`user_id`,`title`,`cover`,`slug`,`excerpt`,`body`,
+`is_public`,`created_at`,`updated_at`) VALUES(
+    '1',
+    'รายการ ฟ้าทะลายโจร เดือนเมษายน พ.ศ.๒๕๖๕',
+    'https://lh3.googleusercontent.com/pQGdS18YAuzG04MouXIZmSpCm3zRwmB09t9Txl5DANZKgU2IaLEcmWSxFwjY1gOKcmK_0yTq-TtgV60r2YuyqP5eRczY-xTWLbbYLgeCa1l_w-Nbst8Aj4XWu2PMZQYTovKEWnt_bJE=w2400',
+    'รายการฟ้าทะลายโจร-apr-2022',
+    'รายการ ฟ้าทะลายโจร เดือนเมษายน พ.ศ.๒๕๖๕',
+    '
+    <div class="content">
+        <p class="pb-4">
+            ทำวิดิโอคลิปนี้เพื่ออยากให้ได้ดูรายการของอาจารย์กบได้แบบไม่มีโฆษณาจากยูทูปมากวนใจ
+        </p>
+       <div class="video-container">
+            <iframe src="https://archive.org/embed/ar-jarn-kob-apr-2022" 
+            width="640" height="480" frameborder="0" 
+            webkitallowfullscreen="true" mozallowfullscreen="true" 
+            allowfullscreen></iframe>
+
+       </div>
+       <p class="pt-2 has-text-centered">
+         รายการ ฟ้าทะลายโจร เดือนเมษายน พ.ศ.๒๕๖๕ อาจารย์กบ
+       </p>
+    </div>
+    ',
+    '1',
+    '2022-04-30 22:43:39',
+    '2022-04-30 22:43:39');
+
+
+
+
+/* ========================= backup INSERT POST 5 ========================
+ * on 2022-05-31 22:43:39
+ * */
+INSERT INTO `posts`(`user_id`,`title`,`cover`,`slug`,`excerpt`,`body`,
+`is_public`,`created_at`,`updated_at`) VALUES(
+    '1',
+    'รายการฟ้าทะลายโจร เดือนพฤษภาคม พ.ศ.๒๕๖๕',
+    'https://lh3.googleusercontent.com/pQGdS18YAuzG04MouXIZmSpCm3zRwmB09t9Txl5DANZKgU2IaLEcmWSxFwjY1gOKcmK_0yTq-TtgV60r2YuyqP5eRczY-xTWLbbYLgeCa1l_w-Nbst8Aj4XWu2PMZQYTovKEWnt_bJE=w2400',
+    'รายการฟ้าทะลายโจร-may-2022',
+    'รายการฟ้าทะลายโจร เดือนพฤษภาคม พ.ศ.๒๕๖๕',
+    '
+    <div class="content">
+        <p class="pb-4">
+            ทำวิดิโอคลิปนี้เพื่ออยากให้ได้ดูรายการของอาจารย์กบได้แบบไม่มีโฆษณาจากยูทูปมากวนใจ
+        </p>
+       <div class="video-container">
+            <iframe src="https://archive.org/embed/ar-jarn-kob-may-2022" 
+            width="640" height="480" frameborder="0" 
+            webkitallowfullscreen="true" mozallowfullscreen="true" 
+            allowfullscreen></iframe>
+
+       </div>
+       <p class="pt-2 has-text-centered">
+          รายการฟ้าทะลายโจร เดือนพฤษภาคม พ.ศ.๒๕๖๕ อาจารย์กบ
+       </p>
+    </div>
+    ',
+    '1',
+    '2022-05-30 22:43:39',
+    '2022-05-30 22:43:39');
+
+
+
+/* ========================= backup INSERT POST 7 ========================
+ * on 2022-07-31 22:43:39
+ * */
+INSERT INTO `posts`(`user_id`,`title`,`cover`,`slug`,`excerpt`,`body`,
+`is_public`,`created_at`,`updated_at`) VALUES(
+    '1',
+    'รายการฟ้าทะลายโจร เดือนกรกฎาคม พ.ศ.๒๕๖๕',
+    'https://lh3.googleusercontent.com/pQGdS18YAuzG04MouXIZmSpCm3zRwmB09t9Txl5DANZKgU2IaLEcmWSxFwjY1gOKcmK_0yTq-TtgV60r2YuyqP5eRczY-xTWLbbYLgeCa1l_w-Nbst8Aj4XWu2PMZQYTovKEWnt_bJE=w2400',
+    'รายการฟ้าทะลายโจร-jul-2022',
+    'รายการฟ้าทะลายโจร เดือนกรกฎาคม พ.ศ.๒๕๖๕',
+    '
+    <div class="content">
+        <p class="pb-4">
+            ทำวิดิโอคลิปนี้เพื่ออยากให้ได้ดูรายการของอาจารย์กบได้แบบไม่มีโฆษณาจากยูทูปมากวนใจ
+        </p>
+       <div class="video-container">
+            <iframe 
+            title="รายการฟ้าทะลายโจร เดือนกรกฎาคม พ.ศ.๒๕๖๕" 
+            src="https://archive.org/embed/kob-jul-2022" 
+            width="560" height="315" frameborder="0"></iframe>
+       </div>
+       <p class="pt-2 has-text-centered">
+          รายการฟ้าทะลายโจร เดือนกรกฎาคม พ.ศ.๒๕๖๕ อาจารย์กบ
+       </p>
+    </div>
+    ',
+    '1',
+    '2022-07-31 22:43:39',
+    '2022-07-31 22:43:39');
+
+
+
+/* ========================= backup INSERT POST 8 ========================
+ * on 2022-08-31 22:43:39
+ * */
+INSERT INTO `posts`(`user_id`,`title`,`cover`,`slug`,`excerpt`,`body`,
+`is_public`,`created_at`,`updated_at`) VALUES(
+    '1',
+    'รายการฟ้าทะลายโจร เดือนสิงหาคม พ.ศ.๒๕๖๕',
+    'https://lh3.googleusercontent.com/pQGdS18YAuzG04MouXIZmSpCm3zRwmB09t9Txl5DANZKgU2IaLEcmWSxFwjY1gOKcmK_0yTq-TtgV60r2YuyqP5eRczY-xTWLbbYLgeCa1l_w-Nbst8Aj4XWu2PMZQYTovKEWnt_bJE=w2400',
+    'รายการฟ้าทะลายโจร-aug-2022',
+    'รายการฟ้าทะลายโจร เดือนสิงหาคม พ.ศ.๒๕๖๕',
+    '
+    <div class="content">
+        <p class="pb-4">
+            ทำวิดิโอคลิปนี้เพื่ออยากให้ได้ดูรายการของอาจารย์กบได้แบบไม่มีโฆษณาจากยูทูปมากวนใจ
+        </p>
+       <div class="video-container">
+            <iframe 
+            title="รายการฟ้าทะลายโจร เดือนสิงหาคม พ.ศ.๒๕๖๕" 
+            src="https://archive.org/embed/kob-aug-2022" 
+            width="560" height="315" frameborder="0"></iframe>
+       </div>
+       <p class="pt-2 has-text-centered">
+          รายการฟ้าทะลายโจร เดือนสิงหาคม พ.ศ.๒๕๖๕ อาจารย์กบ
+       </p>
+    </div>
+    ',
+    '1',
+    '2022-08-31 22:43:39',
+    '2022-08-31 22:43:39');

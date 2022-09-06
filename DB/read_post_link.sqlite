@@ -1,0 +1,37 @@
+ 
+/* ==================== backup read link for POST 1 ==================
+ * on 2022-06-09 22:26:02
+ * */
+INSERT INTO `post_read`(`read_id`,`post_id`,`ip`,`created_at`,`updated_at`) 
+VALUES(
+'2',
+'1',
+'127.0.0.1',
+'2022-06-09 22:26:02',
+'2022-06-09 22:26:02');
+ 
+ 
+ 
+ 
+/* ==================== backup read link for POST 1 ==================
+ * on 2022-08-06 16:59:04
+ * */
+INSERT INTO `post_read`(`read_id`,`post_id`,`ip`,`created_at`,`updated_at`) 
+VALUES(
+'4',
+'1',
+'127.0.0.1',
+'2022-08-06 16:59:04',
+'2022-08-06 16:59:04');
+  
+/* ==================== backup read link for POST 8 ==================
+ * on 2022-08-30 08:39:58
+ * */
+INSERT INTO `post_read`(`read_id`,`post_id`,`ip`,`created_at`,`updated_at`) 
+VALUES(
+'6',
+'8',
+'127.0.0.1',
+'2022-08-30 08:39:58',
+'2022-08-30 08:39:58');
+ 

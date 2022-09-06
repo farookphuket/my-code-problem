@@ -1,0 +1,12 @@
+ 
+/* ========================== insert comment id '1' =======================
+ * on 2022-07-06 19:24:27 pm
+ * */
+INSERT INTO `comments`(`user_id`,`title`,`body`,`is_approved`,`created_at`,
+`updated_at`) VALUES(
+    '2',
+    'this is the test backup',
+    '<p>this is the first test backup</p>',
+    '1',
+    '2022-07-06 19:24:27',
+    '2022-07-06 19:24:27'); 
