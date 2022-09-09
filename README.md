@@ -2,15 +2,21 @@
 
 
 ## this is the fail code repo 
-> just to make a question
+> just to make a question and share the code problem 
 
 6 aug 2022 laravel sanctum return 401 to nextjs and postman 
+> the code propblem has been solved on `8 aug 2022` to get the working repo please visit [**here**](https://github.com/farookphuket/laravel-nextjs-login)
 
 
+[success_status]:https://archive.org/download/arch_linux_myconfig_24-aug-2022_edit/success_STATUS.png
 
+[fail_status]:https://archive.org/download/arch_linux_myconfig_24-aug-2022_edit/fail_STATUS.png
 
+# STATUS 
+> this code problem has been solved
 
-
+![success_status]
+> the poblem has been solved on 8 aug 2022
 
 # last update 6 Aug 2022 
 
